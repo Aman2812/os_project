@@ -1,14 +1,18 @@
 
 #include<stdio.h>
+#include<conio.h>
 #include<stdlib.h>
+#include<time.h>
+#include<string.h>
+
  int main()
  { 	
- double pg_flt;	
+ double pg_flt;
  double avg_t;	
  double memory_acc_t; 	
  double modi_per;	
  double t_n; 	
- double t_m; 
+ double t_m;
  
  printf(" ----Demand Paged Memory Problem---- \n\n"); 
  printf("IN this problem take the values given below or you can take your own values! \n\n"); 
